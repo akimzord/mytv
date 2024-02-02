@@ -1,11 +1,19 @@
 #EXTM3U
-#PLAYLISTV: pltv-logo="https://png.pngtree.com/element_our/sm/20180516/sm_5afbfa01e121d.jpg" pltv-name="TV PRIVADA" pltv-description="LISTA DE FILMES, SERIES, ANIMES, DESENHOS E VARIEDADES"
+#PLAYLISTV: pltv-logo="https://png.pngtree.com/element_our/sm/20180516/sm_5afbfa01e121d.jpg" pltv-name="TV PRIVADA" pltv-description="ATUALIZADO 01/02/24 às 23h15"
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MmXotzOEzypc8-iLmbmUU7UTY8m69ZuKVQuQBmdLXHKDBdiKnHFhhmV1gihoJo4h6y8&usqp=CAU" group-title="BBB24", BBB24 01
-https://s.m3u9.top/a2/hls1/bbb24s01/__index.m3u8?mu3zAQc9HC3GbwJq=Zul55kZUgUV_1doTbdTuIg&3U1G7qaTxrPbalZnEx=1706863465
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MmXotzOEzypc8-iLmbmUU7UTY8m69ZuKVQuQBmdLXHKDBdiKnHFhhmV1gihoJo4h6y8&usqp=CAU" group-title="BBB24", BBB24 02
-https://s.m3u9.top/a2/hls1/bbb24s02/__index.m3u8?mu3zAQc9HC3GbwJq=gj0tQo9KHiXL172rZGH-OA&3U1G7qaTxrPbalZnEx=1706863532
+#### BBB 2024 #########
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MmXotzOEzypc8-iLmbmUU7UTY8m69ZuKVQuQBmdLXHKDBdiKnHFhhmV1gihoJo4h6y8&usqp=CAU" group-title="BBB24", BBB24 03
-https://d1wwtskvr1r98k.cloudfront.net/out/v1/ab297948fa2349b5bc418c9d0bba5596/index_video_5_0_217517.mp4?m=1701872952
+#EXTINF:-1 tvg-logo="#" group-title="BBB24", BBB24 CAM 01 SD
+https://s.m3u9.top/a2/hls1/record/__index.m3u8?mu3zAQc9HC3GbwJq=D2-FWMEi-ZzB5rT-OAFsXQ&3U1G7qaTxrPbalZnEx=1706870257
+
+#EXTINF:-1 tvg-logo="#" group-title="BBB24", BBB24 CAM 02 HD
+https://s.m3u9.top/a2/hls1/bbb24s02/__index.m3u8?mu3zAQc9HC3GbwJq=DYYlN8bh2nzdy6odhWsdyw&3U1G7qaTxrPbalZnEx=1706870744
+
+#### CANAIS ABERTOS #####
+
+#EXTINF:-1 tvg-logo="#" group-title="ABERTOS", TV RECORD
+https://s.m3u9.top/a2/hls1/record/__index.m3u8?mu3zAQc9HC3GbwJq=D2-FWMEi-ZzB5rT-OAFsXQ&3U1G7qaTxrPbalZnEx=1706870257
+
+#EXTINF:-1 tvg-logo="#" group-title="ABERTOS", TV JOVEM PAN
+https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/cb543d197c6c678b84cb3d61cef343a6f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7453db80148b61299bce8c37683f03409a5e5afba358b1ebe55a4cd969a0b74e55c62e42e39f43c88149a6d1870acc5e8270f310c9c6a58a8718818ef3d9986d935c83e5911ce3e25ba18b3b94c89b73309003502c7c66c7d35d7ad35efc2a7053edebc3ff44f216dc8026801a47d3a73bfce542e348a507a0ee40a8aca89d3529d845773a13458dc2dae6d63c3dbc75bb85eccf72758abc7312229a3b8c737e6ad795cf655d2e7306c0cbd1141053a7810cd316b812c99e91804f8e2cc9c6bbab3c4d715305178a5298570cb126f077b2c71f2d5d0211e3ca158cb1d050346d5895c070e0534ae995dbd89f3932c4364f01a8788f0f4c2ced247c70e01afc9817659d695fd66273a80e75c869d48c01d9eb9be90f30b09ee047fc64e0fc4af1fe10a660391653e1a3620f0b1c3380ae550c3678d14cab8699b6395a569e82a794f75a36033600414cdab29517b5ba80784d589129650a1237189903da6ca5706a083cc613d6ec4434b20f2f29e9b02c1f3d4893dbba9588c6c027e42c83d79cb8358f0de45508f1d5746d50fac860c8/130/1280x720_3000797/index.m3u8
