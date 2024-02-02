@@ -1,0 +1,11 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://png.pngtree.com/element_our/sm/20180516/sm_5afbfa01e121d.jpg" pltv-name="TV PRIVADA" pltv-description="LISTA DE FILMES, SERIES, ANIMES, DESENHOS E VARIEDADES"
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MmXotzOEzypc8-iLmbmUU7UTY8m69ZuKVQuQBmdLXHKDBdiKnHFhhmV1gihoJo4h6y8&usqp=CAU" group-title="BBB24", BBB24 01
+https://s.m3u9.top/a2/hls1/bbb24s01/__index.m3u8?mu3zAQc9HC3GbwJq=Zul55kZUgUV_1doTbdTuIg&3U1G7qaTxrPbalZnEx=1706863465
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MmXotzOEzypc8-iLmbmUU7UTY8m69ZuKVQuQBmdLXHKDBdiKnHFhhmV1gihoJo4h6y8&usqp=CAU" group-title="BBB24", BBB24 02
+https://s.m3u9.top/a2/hls1/bbb24s02/__index.m3u8?mu3zAQc9HC3GbwJq=gj0tQo9KHiXL172rZGH-OA&3U1G7qaTxrPbalZnEx=1706863532
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MmXotzOEzypc8-iLmbmUU7UTY8m69ZuKVQuQBmdLXHKDBdiKnHFhhmV1gihoJo4h6y8&usqp=CAU" group-title="BBB24", BBB24 03
+https://d1wwtskvr1r98k.cloudfront.net/out/v1/ab297948fa2349b5bc418c9d0bba5596/index_video_5_0_217517.mp4?m=1701872952
