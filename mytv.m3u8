@@ -4,16 +4,21 @@
 
 #### BBB 2024 #########
 
-#EXTINF:-1 tvg-logo="#" group-title="BBB24", BBB24 CAM 01
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSbade8ARaDsW_aQzL8g82bvFlIZhfDRHwNJpCKvZUWg&s" group-title="BBB24", BBB24 CAM 01
 https://s.m3u9.top/a2/hls1/bbb24s01/__index.m3u8?mu3zAQc9HC3GbwJq=kzu28MYZtUB_6Jo_zfpMYA&3U1G7qaTxrPbalZnEx=1707122623
 
-#EXTINF:-1 tvg-logo="#" group-title="BBB24", BBB24 CAM 02 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSbade8ARaDsW_aQzL8g82bvFlIZhfDRHwNJpCKvZUWg&s" group-title="BBB24", BBB24 CAM 02 HD
 https://s.m3u9.top/a2/hls1/bbb24s02/__index.m3u8?mu3zAQc9HC3GbwJq=NTVObZUqR25yhMM6Z706Xg&3U1G7qaTxrPbalZnEx=1707122749
 
 #### CANAIS ABERTOS #####
 
-#EXTINF:-1 tvg-logo="#" group-title="ABERTOS", GLOBO RJ
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg" group-title="ABERTOS", GLOBO RJ
 https://s.m3u9.top/a2/hls1/boborj/__index.m3u8?mu3zAQc9HC3GbwJq=LUQx4odh5OFCiqVoYOtPcg&3U1G7qaTxrPbalZnEx=1707122801
 
-#EXTINF:-1 tvg-logo="#" group-title="ABERTOS", GLOBO SP
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg" group-title="ABERTOS", GLOBO SP
 https://s.m3u9.top/a2/hls1/bobosp/__index.m3u8?mu3zAQc9HC3GbwJq=ibtPhOk95D5qSmnQn86PKw&3U1G7qaTxrPbalZnEx=1707122840
+
+##### SERIES/INGLÊS ##########
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQeEWbviClMJUC_UyTNdemPcUrEtGbd1Bt2fgeOhVbVg&s" group-title="SOUTH PARK EN", EP 01
+https://topaz.viacomcbs.digital/h/a/dG9wYXoxYDVmYjg4ODdlLWVjZmQtMTFlMC1hY2E2LTAwMjZiOTQxNGYzMGAzZDhkN2JlMDViYWE5Zjk4M2FlNmY1NDZmYmNjZmVlMDQ1ZDQ3ODgxYEo1RlVBUlZvMDdGQ2pDM0hCUjVmbWYtLTE5Smg4N1oxRVJtMDB5d3hyN00/master.m3u8?mgid=mgid:arc:episode:shared.southpark.br.en-us:5fb8887e-ecfd-11e0-aca6-0026b9414f30&ts=1705540296-0&pthash=3d8d7be05baa9f983ae6f546fbccfee045d47881&hdnts=exp=1707099531~acl=/h/a/dG9wYXoxYDVmYjg4ODdlLWVjZmQtMTFlMC1hY2E2LTAwMjZiOTQxNGYzMGAzZDhkN2JlMDViYWE5Zjk4M2FlNmY1NDZmYmNjZmVlMDQ1ZDQ3ODgxYEo1RlVBUlZvMDdGQ2pDM0hCUjVmbWYtLTE5Smg4N1oxRVJtMDB5d3hyN00/*~hmac=49f71aff9445217f77ba8e8677a2881ac9025bfb056be505f6f1795d6ad048ef&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2223bd2d1b-d44d-4cdf-b402-fd8223c705c6%22%2Csu
